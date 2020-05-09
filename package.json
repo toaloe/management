@@ -13,7 +13,9 @@
   "dependencies": {
     "echarts": "^4.7.0",
     "element-ui": "^2.3.7",
+    "js-cookies": "^1.0.4",
     "stylus": "^0.54.7",
+    "svg-sprite-loader": "^4.3.0",
     "v-charts": "^1.19.0",
     "v-echarts": "^1.0.2",
     "vue": "^2.5.2",
